@@ -1,0 +1,4 @@
+= DeskOS:  fuse-exfat RPM
+
+This is the  fuse-exfat RPM package for the DeskOS operating system.
+
